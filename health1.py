@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  8 11:43:11 2020
 
-@author: kavin
-"""
 
 
 
